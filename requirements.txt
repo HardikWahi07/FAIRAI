@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+python-dotenv
+pyrebase4
+scikit-learn
+requests
