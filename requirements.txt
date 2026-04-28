@@ -1,8 +1,8 @@
 streamlit
 pandas
 numpy
-plotly
-python-dotenv
-pyrebase4
+matplotlib
+seaborn
 scikit-learn
 requests
+python-dotenv
